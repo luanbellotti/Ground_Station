@@ -1,0 +1,14 @@
+numpy==2.3.4
+PyQt6
+PyQt6-Qt6
+PyQt6_sip
+scipy
+pyqtgraph==0.13.7
+PySide6==6.10.3
+PySide6_Addons==6.10.3
+PySide6_Essentials==6.10.3
+shiboken6==6.10.3
+pyserial
+stl
+PyOpenGL
+numpy-stl
